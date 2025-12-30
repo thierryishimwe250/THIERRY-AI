@@ -1,0 +1,8 @@
+{
+  "name": "THIERRY AI",
+  "description": "A comprehensive AI platform created by Thierry Ishimwe, featuring multimodal generation, real-time voice interaction, and advanced reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
